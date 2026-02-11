@@ -65,18 +65,6 @@ The Power BI dashboard includes:
 
 ---
 
-## 📂 Repository Structure (Example)
-
-```
-├── data/
-├── notebooks/
-├── scripts/
-├── dashboard/
-└── README.md
-```
-
----
-
 ## 👤 Author
 
 Ojeshwi Gautam
